@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\ProiectIA_final\ProiectIA_NSGA2_final\bin\Debug\ProiectIA_NSGA2_final.exe.config
+C:\Users\Acer\Desktop\ProiectIA_final\ProiectIA_NSGA2_final\bin\Debug\ProiectIA_NSGA2_final.exe
+C:\Users\Acer\Desktop\ProiectIA_final\ProiectIA_NSGA2_final\bin\Debug\ProiectIA_NSGA2_final.pdb
+C:\Users\Acer\Desktop\ProiectIA_final\ProiectIA_NSGA2_final\obj\Debug\ProiectIA_NSGA2_final.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\ProiectIA_final\ProiectIA_NSGA2_final\obj\Debug\ProiectIA_NSGA2_final.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ProiectIA_final\ProiectIA_NSGA2_final\obj\Debug\ProiectIA_NSGA2_final.exe
+C:\Users\Acer\Desktop\ProiectIA_final\ProiectIA_NSGA2_final\obj\Debug\ProiectIA_NSGA2_final.pdb
